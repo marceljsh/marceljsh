@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcel Joshua</h1>
-<h3 align="center">A future backend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marceljsh&label=Profile%20views&color=0e75b6&style=flat" alt="marceljsh" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=marceljsh&label=Profile%20views&color=0e75b6&style=flat" alt="marceljsh" /> </p>
 
 I'm a future backend developer, currently pursuing a bachelor's degree in Information Systems @ Del Institute of Technology. I like challenges, notably when it comes to new fields. I'm excellent in problem solving, public speaking, and constructing a solid argument. I have keen attention to details and accustomed to taking on challenging tasks. I'm currently learning Node.Js and some other backend tools. I know it's far away but I'm not afraid. Bring it on!! 🤩
 
