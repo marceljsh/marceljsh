@@ -8,9 +8,9 @@ I'm a future backend developer, currently pursuing a bachelor's degree in Inform
 
 - 🔭 Pursuing a bachelor's degree in Information Systems at [Del Institue of Technology](del.ac.id)
 
-- 🌱 Currently learning **Node.Js** and **Laravel**
+- 🌱 Currently learning **Node.js** and **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marceljsh?tab=repositories](https://github.com/marceljsh?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/marceljsh?tab=repositories)
 
 - 💬 Ask me about **C++**
 
