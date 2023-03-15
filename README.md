@@ -1,39 +1,35 @@
-<h1 align="center">Hi 👋, I'm Marcel Joshua</h1>
+## 💫 about me, a monke
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=marceljsh&label=Profile%20views&color=0e75b6&style=flat" alt="marceljsh" /> </p>
+🦧 hi, im Marcel Joshua
 
-I'm a future backend developer, currently pursuing a bachelor's degree in Information Systems @ Del Institute of Technology. I like challenges, notably when it comes to new fields. I'm excellent in problem solving, public speaking, and constructing a solid argument. I have keen attention to details and accustomed to taking on challenging tasks. I'm currently learning Node.Js and some other backend tools. I know it's far away but I'm not afraid. Bring it on!! 🤩
+🧠 i will use every free hour to ~~sleep~~ study.
 
-- 🦧 You can call me _`Acel`_
+🐐 [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5?si=3hUAkYfwRHqmSjjbNiXM2A) and [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg?si=LvErg6GtQhi-lpZnR2QsDA) are goated 👑
 
-- 🔭 Pursuing a bachelor's degree in Information Systems at [Del Institue of Technology](del.ac.id)
+⚡️ fun fact, i was born at a very young age
+<br><br>
 
-- 🌱 Currently learning **Node.js** and **Laravel**
+## 💬 hook me up
+```i appreciate all your good intention, just text me if you need something```
 
-- 👨‍💻 All of my projects are available [here](https://github.com/marceljsh?tab=repositories)
+<a href="https://www.linkedin.com/in/marceljsh">
+  <img align="left" alt="marceljsh's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/marceljshua/">
+  <img align="left" alt="marceljsh's Instagram" width="30px" src="https://user-images.githubusercontent.com/70984049/131288231-66471d8b-7bed-4fd7-b2eb-519637f05d8c.png" />
+</a>
+<a href="mailto:marceljoshua69@gmail.com">
+  <img align="left" alt="marceljsh's Gmail" width="30px" src="https://user-images.githubusercontent.com/70984049/131291665-9107db2e-7437-4d90-b509-ea63c5eb38c1.png" />
+</a>
+<br><br>
 
-- 💬 Ask me about **C++**
+## 🍳 tools i use to cook
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br><br>
 
-- 📫 You can reach me on [Gmail](marceljoshua69@gmail.com) and [Outlook](marceljoshua@outlook.com)
+## 🧑‍🍳 let me cook
+what are you looking for?           |  my so called progress
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=marceljsh&theme=radical)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marceljsh&theme=radical)
 
-- 📄 Know about my experiences, [click here](https://drive.google.com/file/d/1g4t2U1WAB3_CHFzMuyTnQ7x8sDXqJgVS/view?usp=sharing)
-
-- ⚡ Fun fact **I speak 4 languages, two of them are tribal languages**
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marceljsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marceljsh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16848597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16848597" height="30" width="40" /></a>
-<a href="https://instagram.com/marceljshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marceljshua" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/marceljoshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marceljoshua" height="30" width="40" /></a>
-</p>
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<a href="http://www.github.com/marceljsh"><img src="https://github-readme-stats.vercel.app/api?username=marceljsh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marceljsh's GitHub stats" /></a>
-
-<a href="http://www.github.com/marceljsh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marceljsh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marceljsh&show_icons=true&locale=en&layout=compact" alt="marceljsh"/>
+![let me cook](https://media.tenor.com/RXUFAV_bynUAAAAC/hold-up-let-him-cook.gif)
