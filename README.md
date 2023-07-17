@@ -13,13 +13,13 @@
 ```i appreciate all your good intention, just text me if you need something```
 
 <a href="https://www.linkedin.com/in/marceljsh">
-  <img align="left" alt="marceljsh's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="marceljsh's LinkedIn" width="30px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://www.instagram.com/marceljshua/">
-  <img align="left" alt="marceljsh's Instagram" width="30px" src="https://user-images.githubusercontent.com/70984049/131288231-66471d8b-7bed-4fd7-b2eb-519637f05d8c.png" />
+  <img align="left" alt="marceljsh's Instagram" width="30px" src="https://cdn.simpleicons.org/instagram" />
 </a>
 <a href="mailto:marceljoshua69@gmail.com">
-  <img align="left" alt="marceljsh's Gmail" width="30px" src="https://user-images.githubusercontent.com/70984049/131291665-9107db2e-7437-4d90-b509-ea63c5eb38c1.png" />
+  <img align="left" alt="marceljsh's Gmail" width="30px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 <br><br>
 
