@@ -18,7 +18,7 @@
 
 <img
   align="left"
-  height="290px"
+  height="280px"
   width="255px"
   src="monke-no-bg.png"
 />
