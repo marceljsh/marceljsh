@@ -18,7 +18,7 @@
 
 <img
   align="left"
-  height="280px"
+  height="270px"
   width="255px"
   src="monke-no-bg.png"
 />
@@ -38,6 +38,8 @@ Learning: API, Microservices, Cloud Computing.
 Hobbies: Surfing (virtually), History, Music, and Gaming.
 GOATs: J. Cole, Kendrick Lamar
 ```
+
+<br />
 
 <div align="center">
 	<details>
