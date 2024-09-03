@@ -18,8 +18,8 @@
 
 <img
   align="left"
-  height="270px"
-  width="255px"
+  height="250px"
+  width="230px"
   src="monke-no-bg.png"
 />
 
