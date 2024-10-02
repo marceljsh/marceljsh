@@ -1,70 +1,43 @@
-<div align="center">
-  <samp>
-		<strong>Take a look around~</strong>
-		<br />
-		<a href="https://www.linkedin.com/in/marceljsh">LinkedIn</a>
-		·
-		<a href="https://marjos.vercel.app">Portfolio</a>
-		·
-		<a href="mailto:marceljoshua69@gmail.com">Email</a>
-	</samp>
+<div align="center" style="display: flex; justify-content: center;">
+    <img align="center" src="./assets/luv-greens.jpeg" alt="marceljsh header" style="height: 50%; width: auto;">
 </div>
 
-<br />
+### hey there, Marcel here ✨
 
-```zsh
-> neofetch
+Detailed engineer based in **North Sumatra, Indonesia**. Experienced in database and backend development with expertise in Golang, Spring Boot, Laravel, PostgreSQL, and Typescript.
+
+<a href="https://drive.google.com/file/d/1z01bbIKUte36ut_EKkSLXNSAz2fyMRPr/view?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
+
+---
+### `info.js` 🔥
+
+```typescript
+export const info = {
+    name: ["Marcel", "Joshua", "Marjos"],
+    pronouns: ["He", "Him"],
+    langs: ["Go", "Java", "PHP", "Typescript", "Python", "C++"],
+    topics: ["web dev", "database", "api"],
+    stack: {
+        frontend: {
+            frameworks: ["React.js", "Next.js", "Tailwind", "Alpine.js"]
+        },
+        backend: {
+            frameworks: ["Spring Boot", "Laravel", "Gin Gonic"]
+        },
+        testing: {
+            tools: ["JUnit", "Postman"]
+        },
+        datasource: {
+            sql: ["PostgreSQL", "MySQL", "MariaDB"],
+            no_sql: ["MongoDB", "Redis"]
+        },
+        misc: ["Linux", "Git", "Docker", "Kafka"]
+    },
+    links: {
+        portfolio: "https://marjos.vercel.app",
+        linkedin: "https://www.linkedin.com"
+    }
+    focus: "Grinding ⚡",
+}
 ```
-
-<img
-  align="left"
-  height="250px"
-  width="230px"
-  src="monke-no-bg.png"
-/>
-
-```csharp
-marceljsh@dreamville
----------------------------------------------------
-Username: Marcel Joshua.
-OS: Ubuntu 22.04.1 LTS.
-Shell: bash 5.1.16
-Languages: Go, Java, PHP, JavaScript, Python.
-CPU: AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx (8) @ 2.100GHz.
-GPU: NVIDIA GeForce GTX 1650 Mobile / Max-Q.
-GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series.
-Memory: 7025MiB / 11763MiB
-Learning: API, Microservices, Cloud Computing.
-Hobbies: Surfing (virtually), History, Music, and Gaming.
-GOATs: J. Cole, Kendrick Lamar
-```
-
-<br />
-
-<div align="center">
-	<details>
-		<summary><small><samp>Stats</samp></small></summary>
-		<picture>
-			<source
-		    	srcset="https://github-readme-stats.vercel.app/api?username=marceljsh&show_icons=true&theme=tokyonight&border_color=30363d&hide_rank=true&"
-		    	media="(prefers-color-scheme: dark)"
-			/>
-			<source
-		    	srcset="https://github-readme-stats.vercel.app/api?username=marceljsh&show_icons=true&border_color=30363d&hide_rank=true&card_width=500"
-		    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-			/>
-			<img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=marceljsh&show_icons=true&border_color=30363d&rank_icon=github" />
-		</picture>
-		<picture>
-			<source
-				srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marceljsh&layout=compact&langs_count=8&theme=tokyonight&border_color=30363d&card_width=490"
-		    	media="(prefers-color-scheme: dark)"
-			/>
-			<source
-		    	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marceljsh&layout=compact&langs_count=8&border_color=30363d&card_width=480"
-		    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-			/>
-			<img height="250" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceljsh&layout=compact&langs_count=&border_color=30363d" />
-		</picture>
-	</details>
-</div
+---
