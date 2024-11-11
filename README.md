@@ -6,7 +6,7 @@
 
 Detailed engineer based in **North Sumatra, Indonesia**. Experienced in database and backend development with expertise in Golang, Spring Boot, Laravel, PostgreSQL, and Typescript.
 
-<a href="https://drive.google.com/file/d/1z01bbIKUte36ut_EKkSLXNSAz2fyMRPr/view?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
+<a href="https://drive.google.com/file/d/1KuIsX_KzzJvpUVgtSj3VswmuSSW4a2Fa/view?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
 
 ---
 ### `info.js` 🔥
